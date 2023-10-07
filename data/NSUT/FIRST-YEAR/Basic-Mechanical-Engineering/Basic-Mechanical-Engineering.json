@@ -1,0 +1,1302 @@
+[
+    {
+        "result": {
+            "data": {
+                "json": [
+                    {
+                        "assignedAt": "2023-04-04T20:08:10.517Z",
+                        "resourceId": "636682136828dfba77b4dad3",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "636682136828dfba77b4dad3",
+                            "name": "RK Rajput.pdf",
+                            "createdAt": "2022-11-05T15:32:35.528Z",
+                            "updatedAt": "2023-09-20T17:43:54.178Z",
+                            "type": "Book",
+                            "upvotes": 11,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/dcb2ad139dbfbb1713d6d1dd01b83913fa825e2aRK%20Rajput.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:10.795Z",
+                        "resourceId": "6366821b6828dfba77b4dad4",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "6366821b6828dfba77b4dad4",
+                            "name": "Fluids.pdf",
+                            "createdAt": "2022-11-05T15:32:43.237Z",
+                            "updatedAt": "2023-09-20T17:43:54.385Z",
+                            "type": "Book",
+                            "upvotes": 15,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/72427b2fac213e498be34e40c1380787c31c6259Fluids.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:11.078Z",
+                        "resourceId": "6366824c6828dfba77b4dada",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "6366824c6828dfba77b4dada",
+                            "name": "S.S.Bhavikatti.pdf",
+                            "createdAt": "2022-11-05T15:33:32.621Z",
+                            "updatedAt": "2023-09-20T17:43:54.590Z",
+                            "type": "Book",
+                            "upvotes": 49,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/204e4f276aa5a74d91e14d100b63cbc13be75766S.S.Bhavikatti.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:11.358Z",
+                        "resourceId": "636685276828dfba77b4dadc",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "636685276828dfba77b4dadc",
+                            "name": "Ic engine problem unit 4.pdf",
+                            "createdAt": "2022-11-05T15:45:43.308Z",
+                            "updatedAt": "2023-09-20T17:43:54.795Z",
+                            "type": "Assignment",
+                            "upvotes": 1,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1e3c19e703a95a57b78c84ac7e51ee897edd5093Ic%20engine%20problem%20unit%204.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:11.650Z",
+                        "resourceId": "6366852f6828dfba77b4dadd",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "6366852f6828dfba77b4dadd",
+                            "name": "Thermo problems unit 4.pdf",
+                            "createdAt": "2022-11-05T15:45:51.311Z",
+                            "updatedAt": "2023-09-20T17:43:55.004Z",
+                            "type": "Assignment",
+                            "upvotes": 1,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/722e704dc469a645ad43d940b5bb4e87db06a176Thermo%20problems%20unit%204.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:11.937Z",
+                        "resourceId": "636685326828dfba77b4dadf",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "636685326828dfba77b4dadf",
+                            "name": "Unit 1 Tutorial sheets.pdf",
+                            "createdAt": "2022-11-05T15:45:54.499Z",
+                            "updatedAt": "2023-09-20T17:43:55.254Z",
+                            "type": "Assignment",
+                            "upvotes": 9,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/6d7f4e7bf829429deac17812cda3b6c5068b00a9Unit%201%20Tutorial%20sheets.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:12.246Z",
+                        "resourceId": "63668acd6828dfba77b4dae1",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668acd6828dfba77b4dae1",
+                            "name": "Unit 5.pdf",
+                            "createdAt": "2022-11-05T16:09:49.407Z",
+                            "updatedAt": "2023-09-20T17:43:55.459Z",
+                            "type": "Note",
+                            "upvotes": 2,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/41cdd1db0b0fc2ab2c39f99abbf283af00a4fafcUnit%205.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:12.531Z",
+                        "resourceId": "63668ae16828dfba77b4dae2",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668ae16828dfba77b4dae2",
+                            "name": "Unit 5 Introduction to Fluids Mechanics PPT.pdf",
+                            "createdAt": "2022-11-05T16:10:09.730Z",
+                            "updatedAt": "2023-09-20T17:43:55.665Z",
+                            "type": "Note",
+                            "upvotes": 10,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f92cdabdd0c9f09eef43c21b7336bafa555ee871Unit%205%20Introduction%20to%20Fluids%20Mechanics%20PPT.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:12.822Z",
+                        "resourceId": "63668b186828dfba77b4dae4",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668b186828dfba77b4dae4",
+                            "name": "Unit 5 Fluids.pdf",
+                            "createdAt": "2022-11-05T16:11:04.723Z",
+                            "updatedAt": "2023-09-20T17:43:55.873Z",
+                            "type": "Note",
+                            "upvotes": 5,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/41609724f8985fc964d72ce718f4cbe04ae48398Unit%205%20Fluids.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:13.099Z",
+                        "resourceId": "63668be36828dfba77b4dae6",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668be36828dfba77b4dae6",
+                            "name": "Unit 4.pdf",
+                            "createdAt": "2022-11-05T16:14:27.277Z",
+                            "updatedAt": "2023-09-20T17:43:56.080Z",
+                            "type": "Note",
+                            "upvotes": 3,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/122977f61940775df913082683571a8b2d697a0aUnit%204.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:13.379Z",
+                        "resourceId": "63668c2b6828dfba77b4dae8",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668c2b6828dfba77b4dae8",
+                            "name": "Unit 4 Thermodynamics PPT.pdf",
+                            "createdAt": "2022-11-05T16:15:39.266Z",
+                            "updatedAt": "2023-09-20T17:43:56.287Z",
+                            "type": "Note",
+                            "upvotes": 6,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/adea10b83ba277e90c7dfca4959eb6abd36b0e26Unit%204%20Thermodynamics%20PPT.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:13.663Z",
+                        "resourceId": "63668c896828dfba77b4daea",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668c896828dfba77b4daea",
+                            "name": "Unit 4 Thermo Handwritten.pdf",
+                            "createdAt": "2022-11-05T16:17:13.403Z",
+                            "updatedAt": "2023-09-20T17:43:56.492Z",
+                            "type": "Note",
+                            "upvotes": 7,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5e57848927504b35e245c37c9b63a48740a57412Unit%204%20Thermo%20Handwritten.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:13.941Z",
+                        "resourceId": "63668cc16828dfba77b4daec",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668cc16828dfba77b4daec",
+                            "name": "Unit 3.pdf",
+                            "createdAt": "2022-11-05T16:18:09.074Z",
+                            "updatedAt": "2023-09-20T17:43:56.862Z",
+                            "type": "Note",
+                            "upvotes": 5,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/79bd3a35987c0ec0146407bdb70e793f597b9919Unit%203.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:14.229Z",
+                        "resourceId": "63668cd36828dfba77b4daee",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668cd36828dfba77b4daee",
+                            "name": "Unit 3.pdf",
+                            "createdAt": "2022-11-05T16:18:27.293Z",
+                            "updatedAt": "2023-09-20T17:43:57.371Z",
+                            "type": "Note",
+                            "upvotes": 11,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ef0ad7d63a0d93c90ebd92338d70fdd79ed7a2c2Unit%203.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:14.506Z",
+                        "resourceId": "63668d766828dfba77b4daf0",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668d766828dfba77b4daf0",
+                            "name": "Unit 3 Introduction to Manufacturing Engineering PPT.pdf",
+                            "createdAt": "2022-11-05T16:21:10.983Z",
+                            "updatedAt": "2023-09-20T17:43:57.682Z",
+                            "type": "Note",
+                            "upvotes": 24,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/04ac8ffd23f8420e3c62287a91accbfa8484b51fUnit%203%20Introduction%20to%20Manufacturing%20Engineering%20PPT.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:14.788Z",
+                        "resourceId": "63668dbd6828dfba77b4daf2",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668dbd6828dfba77b4daf2",
+                            "name": "Unit 2.pdf",
+                            "createdAt": "2022-11-05T16:22:21.084Z",
+                            "updatedAt": "2023-09-20T17:43:58.193Z",
+                            "type": "Note",
+                            "upvotes": 10,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/3803e67b17902ea364d32aef24d5976637593cc4Unit%202.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:15.078Z",
+                        "resourceId": "63668df86828dfba77b4daf4",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668df86828dfba77b4daf4",
+                            "name": "Unit 2 Strength of Materials PPT.pdf",
+                            "createdAt": "2022-11-05T16:23:20.701Z",
+                            "updatedAt": "2023-09-20T17:43:58.662Z",
+                            "type": "Note",
+                            "upvotes": 11,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/b8958500bec47927d99fd2187897ccc8bdc6cc07Unit%202%20Strength%20of%20Materials%20PPT.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:15.358Z",
+                        "resourceId": "63668e156828dfba77b4daf6",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668e156828dfba77b4daf6",
+                            "name": "Unit 1.pdf",
+                            "createdAt": "2022-11-05T16:23:49.761Z",
+                            "updatedAt": "2023-09-20T17:43:59.115Z",
+                            "type": "Note",
+                            "upvotes": 15,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ca453a5f3e4f23f36214e66bf6a097250bed9411Unit%201.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:15.639Z",
+                        "resourceId": "63668e906828dfba77b4daf8",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668e906828dfba77b4daf8",
+                            "name": "Unit 1 Engineering Mechanics PPT.pdf",
+                            "createdAt": "2022-11-05T16:25:52.943Z",
+                            "updatedAt": "2023-09-20T17:43:59.580Z",
+                            "type": "Note",
+                            "upvotes": 21,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1226efae035a27fbf45924b474d6f0e27bdd0a7bUnit%201%20Engineering%20Mechanics%20PPT.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:15.978Z",
+                        "resourceId": "63668f856828dfba77b4dafa",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668f856828dfba77b4dafa",
+                            "name": "Endsem 2022.pdf",
+                            "createdAt": "2022-11-05T16:29:57.111Z",
+                            "updatedAt": "2023-09-20T18:07:11.928Z",
+                            "type": "Paper",
+                            "upvotes": 20,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/da1617aeb94af4ff15c9c53f7ad4eecd5dd6e01bEndsem%202022.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:08:16.298Z",
+                        "resourceId": "63668f896828dfba77b4dafb",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63668f896828dfba77b4dafb",
+                            "name": "Midsem 2022.pdf",
+                            "createdAt": "2022-11-05T16:30:01.876Z",
+                            "updatedAt": "2023-09-20T17:44:13.387Z",
+                            "type": "Paper",
+                            "upvotes": 40,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9f11fa0f014ffabeecd5c0a4797fa2f47ab021deMidsem%202022.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:11:18.662Z",
+                        "resourceId": "638f676eb3da0f0819a0b792",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "638f676eb3da0f0819a0b792",
+                            "name": "Unit 1.playlist",
+                            "createdAt": "2022-12-06T16:01:50.846Z",
+                            "updatedAt": "2023-09-20T17:46:51.049Z",
+                            "type": "Playlist",
+                            "upvotes": 12,
+                            "url": "https://youtube.com/playlist?list=PL0s3O6GgLL5cTyibHXZEBFD4zQeR_HrGG",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:12:22.168Z",
+                        "resourceId": "63af137610210baca962178c",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63af137610210baca962178c",
+                            "name": "bme endsem 2021.pdf",
+                            "createdAt": "2022-12-30T16:36:06.504Z",
+                            "updatedAt": "2023-09-20T18:11:55.654Z",
+                            "type": "Paper",
+                            "upvotes": 11,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9a18aa79d943c8d7003d6e840c5383b176da832bbme%20endsem%202021.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:12:22.447Z",
+                        "resourceId": "63afde4010210baca962178e",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63afde4010210baca962178e",
+                            "name": "Pk Nag Thermodynamics .pdf",
+                            "createdAt": "2022-12-31T07:01:20.904Z",
+                            "updatedAt": "2023-09-20T18:13:22.095Z",
+                            "type": "Book",
+                            "upvotes": 10,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/8deae51c5eaf2c265c0a08e4e15659a2182f8438Pk%20Nag%20Thermodynamics%20.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:12:22.730Z",
+                        "resourceId": "63afe0af10210baca962178f",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63afe0af10210baca962178f",
+                            "name": "Unit 2 .pdf",
+                            "createdAt": "2022-12-31T07:11:43.689Z",
+                            "updatedAt": "2023-09-20T18:14:11.748Z",
+                            "type": "Note",
+                            "upvotes": 19,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/7ca626655d6ff7125a0c2d68751a7336f7a3042aUnit%202%20.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:12:29.268Z",
+                        "resourceId": "63b132f410210baca96217bc",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63b132f410210baca96217bc",
+                            "name": "2017 bme endsem.pdf",
+                            "createdAt": "2023-01-01T07:15:00.760Z",
+                            "updatedAt": "2023-09-20T18:13:59.356Z",
+                            "type": "Paper",
+                            "upvotes": 4,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/536f76ebcfd0e32b415327a7a0f726f57e3dbc622017%20bme%20endsem.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:27.168Z",
+                        "resourceId": "63cd260f236887055b11f799",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd260f236887055b11f799",
+                            "name": "Mid Sem 2018.pdf",
+                            "createdAt": "2023-01-22T12:03:27.320Z",
+                            "updatedAt": "2023-09-20T18:13:30.498Z",
+                            "type": "Paper",
+                            "upvotes": 1,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/440d82d6493335f959f15b84fccb1bc6d7df2eacMid%20Sem%202018.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:27.442Z",
+                        "resourceId": "63cd2611236887055b11f79a",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd2611236887055b11f79a",
+                            "name": "Mid Sem 2016.pdf",
+                            "createdAt": "2023-01-22T12:03:29.720Z",
+                            "updatedAt": "2023-09-20T17:48:48.607Z",
+                            "type": "Paper",
+                            "upvotes": 0,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/90ecff445d3f3ccce0fb39afab0f8d3faec56f66Mid%20Sem%202016.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:27.725Z",
+                        "resourceId": "63cd2613236887055b11f79c",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd2613236887055b11f79c",
+                            "name": "Mid Sem 2017.pdf",
+                            "createdAt": "2023-01-22T12:03:31.702Z",
+                            "updatedAt": "2023-09-20T17:48:48.187Z",
+                            "type": "Paper",
+                            "upvotes": 3,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/1267307d7a18bf267268cda17891dde690494807Mid%20Sem%202017.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:28.007Z",
+                        "resourceId": "63cd2615236887055b11f79e",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd2615236887055b11f79e",
+                            "name": "Mid Sem 2019.pdf",
+                            "createdAt": "2023-01-22T12:03:33.131Z",
+                            "updatedAt": "2023-09-20T17:48:49.228Z",
+                            "type": "Paper",
+                            "upvotes": 1,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/5acc222d47a51be76520d7ac76443c6d0c452167Mid%20Sem%202019.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:28.294Z",
+                        "resourceId": "63cd2616236887055b11f7a0",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd2616236887055b11f7a0",
+                            "name": "End Sem 2016.pdf",
+                            "createdAt": "2023-01-22T12:03:34.859Z",
+                            "updatedAt": "2023-09-20T17:48:49.024Z",
+                            "type": "Paper",
+                            "upvotes": 1,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a9cc7fe6bf06b56a0a2fb197c02597997b2b9110End%20Sem%202016.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:28.575Z",
+                        "resourceId": "63cd2618236887055b11f7a2",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd2618236887055b11f7a2",
+                            "name": "End Sem 2018.pdf",
+                            "createdAt": "2023-01-22T12:03:36.227Z",
+                            "updatedAt": "2023-09-20T17:48:48.813Z",
+                            "type": "Paper",
+                            "upvotes": 6,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/a2a91f8312b2e3859870fe70e55c114cade0b184End%20Sem%202018.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:28.898Z",
+                        "resourceId": "63cd261a236887055b11f7a4",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd261a236887055b11f7a4",
+                            "name": "End Sem 2019.pdf",
+                            "createdAt": "2023-01-22T12:03:38.229Z",
+                            "updatedAt": "2023-09-20T17:48:49.434Z",
+                            "type": "Paper",
+                            "upvotes": 10,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/0bda1f4dde7140fdff8009118eb4029f6534f787End%20Sem%202019.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:35.981Z",
+                        "resourceId": "63cd5973236887055b11f7d4",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63cd5973236887055b11f7d4",
+                            "name": "1st Sem Notes_Vishu.pdf",
+                            "createdAt": "2023-01-22T15:42:43.318Z",
+                            "updatedAt": "2023-09-20T17:48:51.782Z",
+                            "type": "Note",
+                            "upvotes": 13,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/f085285370087e05228cad4be580d68947cf84bb1st%20Sem%20Notes_Vishu.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:55.667Z",
+                        "resourceId": "63d536650e3d7e4288a755cc",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63d536650e3d7e4288a755cc",
+                            "name": "2. MID SEM 2023.jpeg",
+                            "createdAt": "2023-01-28T14:51:17.990Z",
+                            "updatedAt": "2023-09-20T17:49:04.219Z",
+                            "type": "Paper",
+                            "upvotes": 2,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/9eae426d718a0b70beaf05579c706bad9ee4f91b2.%20MID%20SEM%202023.jpeg",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:13:55.943Z",
+                        "resourceId": "63d536670e3d7e4288a755ce",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63d536670e3d7e4288a755ce",
+                            "name": "1. MID SEM 2023.jpeg",
+                            "createdAt": "2023-01-28T14:51:19.294Z",
+                            "updatedAt": "2023-09-20T18:12:08.934Z",
+                            "type": "Paper",
+                            "upvotes": 8,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/d033ebf2823868fcf1be99f5004e628903ba69a91.%20MID%20SEM%202023.jpeg",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:16:27.985Z",
+                        "resourceId": "63f5768ca548277028611b37",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63f5768ca548277028611b37",
+                            "name": "Unit 2 by Manas Patnaik.playlist",
+                            "createdAt": "2023-02-22T01:57:32.205Z",
+                            "updatedAt": "2023-09-20T17:51:29.277Z",
+                            "type": "Playlist",
+                            "upvotes": 1,
+                            "url": "https://youtube.com/playlist?list=PLIhUrsYr8yHzft7ygw5THZo4aDcsxEadP",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:16:28.266Z",
+                        "resourceId": "63f5770fa548277028611b38",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63f5770fa548277028611b38",
+                            "name": "Unit 2 SFD BMD by MKS Tutorial.playlist",
+                            "createdAt": "2023-02-22T01:59:43.321Z",
+                            "updatedAt": "2023-09-20T17:51:29.789Z",
+                            "type": "Playlist",
+                            "upvotes": 1,
+                            "url": "https://youtube.com/playlist?list=PLhSp9OSVmeyJOktHNEK7AEkR3WA69FZ3U",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:16:28.541Z",
+                        "resourceId": "63f57773a548277028611b39",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63f57773a548277028611b39",
+                            "name": "Unit 4 Thermodynamics.playlist",
+                            "createdAt": "2023-02-22T02:01:23.925Z",
+                            "updatedAt": "2023-09-20T17:51:30.302Z",
+                            "type": "Playlist",
+                            "upvotes": 0,
+                            "url": "https://youtube.com/playlist?list=PLhSp9OSVmeyLsaRM5I5j6krW8zQ35DwIA",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:17:16.561Z",
+                        "resourceId": "63fb82b9a548277028611c59",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63fb82b9a548277028611c59",
+                            "name": "Unit - 4 (Thermodynamics).playlist",
+                            "createdAt": "2023-02-26T16:03:05.297Z",
+                            "updatedAt": "2023-09-20T17:52:08.254Z",
+                            "type": "Playlist",
+                            "upvotes": 4,
+                            "url": "https://youtube.com/playlist?list=PL0s3O6GgLL5fsCIx935erCDBWzMtiRAjg",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:17:16.929Z",
+                        "resourceId": "63fb836da548277028611c5b",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63fb836da548277028611c5b",
+                            "name": "Unit 5 ( fluid mechanics).playlist",
+                            "createdAt": "2023-02-26T16:06:05.589Z",
+                            "updatedAt": "2023-09-20T17:52:08.705Z",
+                            "type": "Playlist",
+                            "upvotes": 3,
+                            "url": "https://youtube.com/playlist?list=PL0s3O6GgLL5dg7stQB0vS1JYuNS4HtsRH",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:17:33.951Z",
+                        "resourceId": "63fe4893a548277028611cc2",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63fe4893a548277028611cc2",
+                            "name": "Unit 3 ( Manufacturing Engineering).playlist",
+                            "createdAt": "2023-02-28T18:31:47.897Z",
+                            "updatedAt": "2023-09-20T17:52:19.143Z",
+                            "type": "Playlist",
+                            "upvotes": 1,
+                            "url": "https://www.youtube.com/playlist?list=PLbkIghvjQ7P9THjzpqSA1UWD0-VWMZlsl",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-04-04T20:17:34.232Z",
+                        "resourceId": "63fe4ba8a548277028611cc3",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "63fe4ba8a548277028611cc3",
+                            "name": "Unit 3 ( Manufacturing).playlist",
+                            "createdAt": "2023-02-28T18:44:56.129Z",
+                            "updatedAt": "2023-09-20T17:52:19.349Z",
+                            "type": "Playlist",
+                            "upvotes": 2,
+                            "url": "https://www.youtube.com/playlist?list=PLPvgSDmFcWxPq4BKvGg4SA5Xc7RVCa4z7",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-05-27T06:55:02.450Z",
+                        "resourceId": "cli5n09iq00h3un9z9qqyi1rr",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "cli5n09iq00h3un9z9qqyi1rr",
+                            "name": "Mid Sem ( BME )-2023.pdf",
+                            "createdAt": "2023-05-27T06:55:02.450Z",
+                            "updatedAt": "2023-09-20T18:00:35.432Z",
+                            "type": "Paper",
+                            "upvotes": 0,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/61bdddfd506386e3abb7d63e05bff4a3f1dfdf44Mid%20Sem%20%28%20BME%20%29-2023.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-05-27T06:55:03.294Z",
+                        "resourceId": "cli5n0a6500h5un9zd4f8j2zb",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "cli5n0a6500h5un9zd4f8j2zb",
+                            "name": "End Sem ( BME ) - 2023.pdf",
+                            "createdAt": "2023-05-27T06:55:03.294Z",
+                            "updatedAt": "2023-09-20T18:00:35.659Z",
+                            "type": "Paper",
+                            "upvotes": 0,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/ebcd2171c457a82b2e24a6be601ab11bcb6deb9dEnd%20Sem%20%28%20BME%20%29%20-%202023.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    },
+                    {
+                        "assignedAt": "2023-10-06T03:58:41.356Z",
+                        "resourceId": "clne2tx3f024ai6jmldhb6852",
+                        "courseId": "63446c0f8d834ad11f07bc00",
+                        "resource": {
+                            "id": "clne2tx3f024ai6jmldhb6852",
+                            "name": " R K Bansal.pdf",
+                            "createdAt": "2023-10-06T03:58:41.356Z",
+                            "updatedAt": "2023-10-06T04:00:31.940Z",
+                            "type": "Book",
+                            "upvotes": 0,
+                            "url": "https://fresources.blr1.digitaloceanspaces.com/NSUT/2b69f857f4c783dc6710211d07a6560b6667ee42Engineering%20mechanics%20by%20R%20K%20Bansal.pdf",
+                            "courseIds": [],
+                            "userId": null,
+                            "price": 0,
+                            "author": null,
+                            "unitsSold": 0
+                        }
+                    }
+                ],
+                "meta": {
+                    "values": {
+                        "0.assignedAt": [
+                            "Date"
+                        ],
+                        "0.resource.createdAt": [
+                            "Date"
+                        ],
+                        "0.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "1.assignedAt": [
+                            "Date"
+                        ],
+                        "1.resource.createdAt": [
+                            "Date"
+                        ],
+                        "1.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "2.assignedAt": [
+                            "Date"
+                        ],
+                        "2.resource.createdAt": [
+                            "Date"
+                        ],
+                        "2.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "3.assignedAt": [
+                            "Date"
+                        ],
+                        "3.resource.createdAt": [
+                            "Date"
+                        ],
+                        "3.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "4.assignedAt": [
+                            "Date"
+                        ],
+                        "4.resource.createdAt": [
+                            "Date"
+                        ],
+                        "4.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "5.assignedAt": [
+                            "Date"
+                        ],
+                        "5.resource.createdAt": [
+                            "Date"
+                        ],
+                        "5.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "6.assignedAt": [
+                            "Date"
+                        ],
+                        "6.resource.createdAt": [
+                            "Date"
+                        ],
+                        "6.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "7.assignedAt": [
+                            "Date"
+                        ],
+                        "7.resource.createdAt": [
+                            "Date"
+                        ],
+                        "7.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "8.assignedAt": [
+                            "Date"
+                        ],
+                        "8.resource.createdAt": [
+                            "Date"
+                        ],
+                        "8.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "9.assignedAt": [
+                            "Date"
+                        ],
+                        "9.resource.createdAt": [
+                            "Date"
+                        ],
+                        "9.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "10.assignedAt": [
+                            "Date"
+                        ],
+                        "10.resource.createdAt": [
+                            "Date"
+                        ],
+                        "10.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "11.assignedAt": [
+                            "Date"
+                        ],
+                        "11.resource.createdAt": [
+                            "Date"
+                        ],
+                        "11.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "12.assignedAt": [
+                            "Date"
+                        ],
+                        "12.resource.createdAt": [
+                            "Date"
+                        ],
+                        "12.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "13.assignedAt": [
+                            "Date"
+                        ],
+                        "13.resource.createdAt": [
+                            "Date"
+                        ],
+                        "13.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "14.assignedAt": [
+                            "Date"
+                        ],
+                        "14.resource.createdAt": [
+                            "Date"
+                        ],
+                        "14.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "15.assignedAt": [
+                            "Date"
+                        ],
+                        "15.resource.createdAt": [
+                            "Date"
+                        ],
+                        "15.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "16.assignedAt": [
+                            "Date"
+                        ],
+                        "16.resource.createdAt": [
+                            "Date"
+                        ],
+                        "16.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "17.assignedAt": [
+                            "Date"
+                        ],
+                        "17.resource.createdAt": [
+                            "Date"
+                        ],
+                        "17.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "18.assignedAt": [
+                            "Date"
+                        ],
+                        "18.resource.createdAt": [
+                            "Date"
+                        ],
+                        "18.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "19.assignedAt": [
+                            "Date"
+                        ],
+                        "19.resource.createdAt": [
+                            "Date"
+                        ],
+                        "19.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "20.assignedAt": [
+                            "Date"
+                        ],
+                        "20.resource.createdAt": [
+                            "Date"
+                        ],
+                        "20.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "21.assignedAt": [
+                            "Date"
+                        ],
+                        "21.resource.createdAt": [
+                            "Date"
+                        ],
+                        "21.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "22.assignedAt": [
+                            "Date"
+                        ],
+                        "22.resource.createdAt": [
+                            "Date"
+                        ],
+                        "22.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "23.assignedAt": [
+                            "Date"
+                        ],
+                        "23.resource.createdAt": [
+                            "Date"
+                        ],
+                        "23.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "24.assignedAt": [
+                            "Date"
+                        ],
+                        "24.resource.createdAt": [
+                            "Date"
+                        ],
+                        "24.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "25.assignedAt": [
+                            "Date"
+                        ],
+                        "25.resource.createdAt": [
+                            "Date"
+                        ],
+                        "25.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "26.assignedAt": [
+                            "Date"
+                        ],
+                        "26.resource.createdAt": [
+                            "Date"
+                        ],
+                        "26.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "27.assignedAt": [
+                            "Date"
+                        ],
+                        "27.resource.createdAt": [
+                            "Date"
+                        ],
+                        "27.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "28.assignedAt": [
+                            "Date"
+                        ],
+                        "28.resource.createdAt": [
+                            "Date"
+                        ],
+                        "28.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "29.assignedAt": [
+                            "Date"
+                        ],
+                        "29.resource.createdAt": [
+                            "Date"
+                        ],
+                        "29.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "30.assignedAt": [
+                            "Date"
+                        ],
+                        "30.resource.createdAt": [
+                            "Date"
+                        ],
+                        "30.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "31.assignedAt": [
+                            "Date"
+                        ],
+                        "31.resource.createdAt": [
+                            "Date"
+                        ],
+                        "31.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "32.assignedAt": [
+                            "Date"
+                        ],
+                        "32.resource.createdAt": [
+                            "Date"
+                        ],
+                        "32.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "33.assignedAt": [
+                            "Date"
+                        ],
+                        "33.resource.createdAt": [
+                            "Date"
+                        ],
+                        "33.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "34.assignedAt": [
+                            "Date"
+                        ],
+                        "34.resource.createdAt": [
+                            "Date"
+                        ],
+                        "34.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "35.assignedAt": [
+                            "Date"
+                        ],
+                        "35.resource.createdAt": [
+                            "Date"
+                        ],
+                        "35.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "36.assignedAt": [
+                            "Date"
+                        ],
+                        "36.resource.createdAt": [
+                            "Date"
+                        ],
+                        "36.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "37.assignedAt": [
+                            "Date"
+                        ],
+                        "37.resource.createdAt": [
+                            "Date"
+                        ],
+                        "37.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "38.assignedAt": [
+                            "Date"
+                        ],
+                        "38.resource.createdAt": [
+                            "Date"
+                        ],
+                        "38.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "39.assignedAt": [
+                            "Date"
+                        ],
+                        "39.resource.createdAt": [
+                            "Date"
+                        ],
+                        "39.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "40.assignedAt": [
+                            "Date"
+                        ],
+                        "40.resource.createdAt": [
+                            "Date"
+                        ],
+                        "40.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "41.assignedAt": [
+                            "Date"
+                        ],
+                        "41.resource.createdAt": [
+                            "Date"
+                        ],
+                        "41.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "42.assignedAt": [
+                            "Date"
+                        ],
+                        "42.resource.createdAt": [
+                            "Date"
+                        ],
+                        "42.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "43.assignedAt": [
+                            "Date"
+                        ],
+                        "43.resource.createdAt": [
+                            "Date"
+                        ],
+                        "43.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "44.assignedAt": [
+                            "Date"
+                        ],
+                        "44.resource.createdAt": [
+                            "Date"
+                        ],
+                        "44.resource.updatedAt": [
+                            "Date"
+                        ],
+                        "45.assignedAt": [
+                            "Date"
+                        ],
+                        "45.resource.createdAt": [
+                            "Date"
+                        ],
+                        "45.resource.updatedAt": [
+                            "Date"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

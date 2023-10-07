@@ -1,2 +1,5 @@
 requests
 cloudscraper
+google-api-python-client
+google
+python-magic-bin==0.4.14

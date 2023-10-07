@@ -1,0 +1,105 @@
+[
+    {
+        "result": {
+            "data": {
+                "json": [
+                    {
+                        "id": "63446c0f8d834ad11f07bbff",
+                        "name": "FIRST YEAR",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgbpg60001ky6whsjjwffz",
+                        "name": "CSAI",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgc8ep0003ky6wxnd3dhqh",
+                        "name": "CSDS",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgcfv80005ky6w4g8w5sy9",
+                        "name": "CSE",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgcm860007ky6wczj2yqgs",
+                        "name": "EIOT",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgcr9e0009ky6wms4hgfe2",
+                        "name": "CSDA",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgcvux000bky6w2g5c8o29",
+                        "name": "ICE",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgd1zb000dky6w2y7ii5wh",
+                        "name": "ECAM",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgd9ci000fky6wwapdrkqz",
+                        "name": "ECE",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgddgq000hky6wwvs5zzb7",
+                        "name": "EE",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgdj45000jky6wkjd32rq7",
+                        "name": "CSIOT",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgdp0e000lky6wwucljqds",
+                        "name": "ME",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgdsx1000nky6w6j8aqf0d",
+                        "name": "BT",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgdxip000pky6whodjkxmc",
+                        "name": "MEEV",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpge2ef000rky6wz10s2q03",
+                        "name": "GI",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpge7yd000tky6wnvvja669",
+                        "name": "CIVIL",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgedxk000vky6w5rh4pays",
+                        "name": "MAC",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgej0a000xky6wj2tnuap9",
+                        "name": "IT",
+                        "collegeId": "63066b809cbab109372b824e"
+                    },
+                    {
+                        "id": "cllpgeog4000zky6w7j545qtj",
+                        "name": "ITNS",
+                        "collegeId": "63066b809cbab109372b824e"
+                    }
+                ]
+            }
+        }
+    }
+]

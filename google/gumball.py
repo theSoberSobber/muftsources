@@ -120,7 +120,7 @@ while(1):
             f1.close()
 
             collegeFolderId = getFolderId(f"{i}", 'root')
-
+            
             upload(f"{i}.json", f"./data/{i}/{i}.json", collegeFolderId)
             
             resB = resB[0]['result']['data']['json']
@@ -164,38 +164,50 @@ while(1):
                     upload(f"{c['name']}.json", f"{name}/{c['name']}.json",courseFolderId)
 
                     resR = resR[0]['result']['data']['json']
+
                     for reso in resR:
-                         reso = reso['resource']
-                         rType = f"./data/{i}/{j['name']}/{c['name']}/{reso['type']}"
-                         checkNCreate(rType)
+                        reso = reso['resource']
+                        rType = f"./data/{i}/{j['name']}/{c['name']}/{reso['type']}"
+                        checkNCreate(rType)
 
-                         checkNCreateDrive(f"{reso['type']}", courseFolderId)
+                        checkNCreateDrive(f"{reso['type']}", courseFolderId)
 
-                         resourceFolderId = getFolderId(f"{reso['type']}", courseFolderId)
+                        resourceFolderId = getFolderId(f"{reso['type']}", courseFolderId)
 
-                         reso['name'] = sanitize(reso['name'])
-                         if(os.path.exists(f"{rType}/{reso['name']}")==False):
-                             if("fresources" in reso['url']):
-                                 print("         PDF: ", reso['name'])
-                                 downloadPdf(f"{rType}/{reso['name']}", reso['url'])
-                                 upload(reso['name'], f"{rType}/{reso['name']}", resourceFolderId)
+                        reso['name'] = sanitize(reso['name'])
 
-                                 # upload to appropriate place here
+                        if(os.path.exists(f"{rType}/{reso['name']}")==False):
+                            success = False
+                            cnt = 0
+                            while cnt<2 and success==False:
+                                if cnt==1:
+                                    print("Trying")
+                                    checkNCreateDrive(f"{i}", 'root')
+                                    collegeFolderId = getFolderId(f"{i}", 'root')
+                                    checkNCreateDrive(f"{j['name']}", collegeFolderId)
+                                    branchFolderId = getFolderId(j['name'], collegeFolderId)
+                                    checkNCreateDrive(f"{c['name']}", branchFolderId)
+                                    courseFolderId = getFolderId(c['name'], branchFolderId)
+                                    checkNCreateDrive(f"{reso['type']}", courseFolderId)
+                                    resourceFolderId = getFolderId(f"{reso['type']}", courseFolderId)
+                                    print("CHANGE KERDIA MAINE BUBU")
+                                cnt += 1
+                                if("fresources" in reso['url']):
+                                    print("         PDF: ", reso['name'])
+                                    downloadPdf(f"{rType}/{reso['name']}", reso['url'])
+                                    success = upload(reso['name'], f"{rType}/{reso['name']}", resourceFolderId)
+                                    os.remove(f"{rType}/{reso['name']}")
+                                else:
+                                    print("         Playlist: ", reso['name'])
+                                    f4 = open(f"{rType}/{reso['name']}", "w")
+                                    f4.write(reso['url'])
+                                    f4.close()
+                                    success = upload(reso['name'], f"{rType}/{reso['name']}", resourceFolderId)
+                                    os.remove(f"{rType}/{reso['name']}")
 
-                                 os.remove(f"{rType}/{reso['name']}")
-                             else:
-                                 print("         Playlist: ", reso['name'])
-                                 f4 = open(f"{rType}/{reso['name']}", "w")
-                                 f4.write(reso['url'])
-                                 f4.close()
-                                 upload(reso['name'], f"{rType}/{reso['name']}", resourceFolderId)
-                                 # upload to appropriate place here
-
-                                 os.remove(f"{rType}/{reso['name']}")
-
-                             resourceId = getResourceId(reso['name'], resourceFolderId)
-                             link = getResourceLink(resourceId)
-                             readme += f"\t\t- [{reso['name']}]({link})\n"
+                            resourceId = getResourceId(reso['name'], resourceFolderId)
+                            link = getResourceLink(resourceId)
+                            readme += f"\t\t- [{reso['name']}]({link})\n"
         readmeF = open("./README.md", "w")
         readmeF.wrte(readme)
         readmeF.close()
@@ -206,3 +218,6 @@ while(1):
         cntFailure+=1
         print("Failure Count: ", cntFailure)
         time.sleep(60)
+
+# remove files just after so as to not exhaust the vms resources
+# let the directory structure be, it consumes no space anyways

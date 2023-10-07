@@ -1,0 +1,181 @@
+[
+    {
+        "result": {
+            "data": {
+                "json": {
+                    "name": "FIRST YEAR",
+                    "courses": [
+                        {
+                            "id": "63446c0f8d834ad11f07bc00",
+                            "year": null,
+                            "name": "Basic Mechanical Engineering",
+                            "syllabusURI": "https://docs.google.com/document/d/1_D-0KPayk2GBPlnn_xApG0dD74X2gNDEioRvtqeYg8U/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c108d834ad11f07bc01",
+                            "year": null,
+                            "name": "Chemistry",
+                            "syllabusURI": "https://drive.google.com/file/d/17gvqJ8s8t9RsRBYA47OMZJzgG7XIUf2N/view?usp=drivesdk",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c108d834ad11f07bc02",
+                            "year": null,
+                            "name": "English",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c108d834ad11f07bc03",
+                            "year": null,
+                            "name": "Computer Programming",
+                            "syllabusURI": "https://docs.google.com/document/d/135RvOz_F9WgoIeKfsCLsi0v20TOsFLFUF43oI-dkzdA/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c108d834ad11f07bc04",
+                            "year": null,
+                            "name": "Electrical and Electronics Engineering",
+                            "syllabusURI": "https://docs.google.com/document/d/1hW1fwDBVT3Jy2f7JqEBj0-JT80Kq_UJscD5oZbyKc14/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c108d834ad11f07bc05",
+                            "year": null,
+                            "name": "Physics",
+                            "syllabusURI": "https://docs.google.com/document/d/1NW4VT5gPgKJlRZLlHoNrJkgnnEWl4Wcc7HYXVT6Erb8/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c108d834ad11f07bc06",
+                            "year": null,
+                            "name": "Maths - 1",
+                            "syllabusURI": "https://docs.google.com/document/d/19TAZLXoKufkzK3aFVEdJXgXxdeXytLu56ezmVUeV0UM/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "63446c118d834ad11f07bc07",
+                            "year": null,
+                            "name": "Maths - 2",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuyla0000kyx0l4c84ney",
+                            "year": null,
+                            "name": "Discrete StruCture",
+                            "syllabusURI": "https://drive.google.com/file/d/1LCgGEov5iDrmf8LrSYLcnuQYdgqmUsvY/view?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuyla0001kyx0bmnezqos",
+                            "year": null,
+                            "name": "Data Structure",
+                            "syllabusURI": "https://docs.google.com/document/d/1Y6jL49lgv5-tF9jeNGa3Ky2TFEISC31PbNRO6D0fZlA/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuyla0002kyx0v992r2y8",
+                            "year": null,
+                            "name": "Digital Logic Design",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb0003kyx0rsb3ju2l",
+                            "year": null,
+                            "name": "Applied Physics",
+                            "syllabusURI": "https://docs.google.com/document/d/1E7yvkFHOZTjlJf3fFYzY_IWG92EK4OJ43mKsaPuDHlU/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb0004kyx0ib7gvsju",
+                            "year": null,
+                            "name": "Digital Circuit and Systems",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb0005kyx0xyvyn6a4",
+                            "year": null,
+                            "name": "Active Circuit Analysis and Synthesis",
+                            "syllabusURI": "https://drive.google.com/file/d/1Wpnz4fw2KpkXLHEQvrX5KQPR7vCFo8l4/view?usp=share_link",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb0006kyx0mp3lbr7a",
+                            "year": null,
+                            "name": "Electronic Devices and CKts",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb0007kyx00z8ossr6",
+                            "year": null,
+                            "name": "Electrical and Electronic Measurements",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb0008kyx0s4pakbzx",
+                            "year": null,
+                            "name": "Signals and Systems",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb000akyx0dxaco5wm",
+                            "year": null,
+                            "name": "Engineering MechanicS",
+                            "syllabusURI": "https://drive.google.com/file/d/1iAAdTWrtTVt9olG4iwdpz6SHCJfsVJ-I/view?usp=drivesdk",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb000bkyx0ezb81rll",
+                            "year": null,
+                            "name": "Engineering Material and Metallurgy",
+                            "syllabusURI": "https://drive.google.com/file/d/1yZJPUkW3rBWz2yAxSETZZu9Kv-tTlYI3/view?usp=drivesdk",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb000ckyx0tl5w7xup",
+                            "year": null,
+                            "name": "Engineering and Machine Drawing",
+                            "syllabusURI": "https://drive.google.com/file/d/19QWtXp0jdzhnsnI29Xa8sRmmZkejfCmC/view?usp=drivesdk",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb000ekyx07ezpioe6",
+                            "year": null,
+                            "name": "Phyics of Materials",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb000fkyx0qz2kzxfx",
+                            "year": null,
+                            "name": "Advances Chemistry",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clh3kuylb000gkyx0a7i17bv3",
+                            "year": null,
+                            "name": "Introduction to Biotechnology",
+                            "syllabusURI": "https://docs.google.com/document/d/1E7yvkFHOZTjlJf3fFYzY_IWG92EK4OJ43mKsaPuDHlU/edit?usp=sharing",
+                            "resourceIds": []
+                        },
+                        {
+                            "id": "clmibk41z00016em5w2rwlydn",
+                            "year": null,
+                            "name": "dhruv-new",
+                            "syllabusURI": null,
+                            "resourceIds": []
+                        }
+                    ]
+                }
+            }
+        }
+    }
+]

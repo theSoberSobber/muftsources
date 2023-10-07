@@ -10,18 +10,25 @@ API_NAME='drive'
 API_VERSION = 'v3'
 SCOPES = ['https://www.googleapis.com/auth/drive']
 
-overhead = 512
+overhead = 9925
 TOP=1
 
-service = Create_Service(f"secrexx-{TOP}.json", API_NAME, API_VERSION, SCOPES)
+service = Create_Service(TOP, API_NAME, API_VERSION, SCOPES)
+# print(service)
 
 # need to call before every function (use decorators???)
 def ensureSpace():
 	global TOP
+	updated = False
 	while(getRemainingSpace()<=overhead):
 		TOP+=1
+		updated = True
+		print(TOP)
 		service = Create_Service(f"secrexx-{TOP}.json", API_NAME, API_VERSION, SCOPES)
-	print(TOP)
+		if(TOP==2):
+			return updated
+	# print(TOP)
+	return updated
 
 def pprint(js):
 	print(json.dumps(js, indent=4))
@@ -77,8 +84,11 @@ def uploadFile(name, path, parent):
 	).execute()
 
 def upload(name, path, parent):
+	if ensureSpace():
+		return False
 	if(check(name, path, parent)==0):
 		uploadFile(name, path, parent)
+	return True
 
 def getFolderId(name, parent):
 	curr = list(parent)
@@ -131,9 +141,11 @@ def check(name, path, parent):
 	# list and check for corresponding lock file and name for hash
 	curr = list(parent)
 	for i in curr['files']:
-		if(i['mimeType'].split(".")[-1]!="folder" and i['name'].split(';')[1]==hashfile(path)):
-			return True;
-	return False;
+		if i['mimeType'].split(".")[-1]!="folder":
+			l = i['name'].split(';')
+			if len(l)>1 and l[1]==hashfile(path):
+				return True
+	return False
 
 def checkFolder(name, parent):
 	curr = list(parent)
@@ -148,7 +160,7 @@ def checkNCreateDrive(name, parent):
 # naming convention "name;resourceId;.extension"
 
 # if(check("bhau.pdf", "../test.pdf", 'root')==0):
-	# upload("bhau.pdf", "../test.pdf", 'root')
+# upload("bhau.pdf", "./test.pdf", 'root')
 
 # upload("DTU.json;hidajsdakndasd;.json", "./data/DTU/DTU.json", 'root')
 
@@ -156,6 +168,6 @@ def checkNCreateDrive(name, parent):
 # print(getResourceLink(resId));
 
 # pprint(listAll())
-# print(getRemainingSpace()) # print in mb
+print(getRemainingSpace()) # print in mb
 # ensureSpace();
 # print(hashfile("./test.pdf"))
