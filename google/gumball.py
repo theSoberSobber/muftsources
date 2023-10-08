@@ -178,12 +178,14 @@ while(1):
 
                         if(os.path.exists(f"{rType}/{reso['name']}")==False):
                             success = False
-                            cnt = 0
-                            while cnt<2 and success==False:
-                                if cnt==1:
+                            count = 0
+                            while count<2 and success==False:
+                                if count==1:
                                     print("Trying")
                                     checkNCreateDrive(f"{i}", 'root')
+                                    print("bhau")
                                     collegeFolderId = getFolderId(f"{i}", 'root')
+                                    print("bhau")
                                     checkNCreateDrive(f"{j['name']}", collegeFolderId)
                                     branchFolderId = getFolderId(j['name'], collegeFolderId)
                                     checkNCreateDrive(f"{c['name']}", branchFolderId)
@@ -191,7 +193,7 @@ while(1):
                                     checkNCreateDrive(f"{reso['type']}", courseFolderId)
                                     resourceFolderId = getFolderId(f"{reso['type']}", courseFolderId)
                                     print("CHANGE KERDIA MAINE BUBU")
-                                cnt += 1
+                                count += 1
                                 if("fresources" in reso['url']):
                                     print("         PDF: ", reso['name'])
                                     downloadPdf(f"{rType}/{reso['name']}", reso['url'])
@@ -204,6 +206,8 @@ while(1):
                                     f4.close()
                                     success = upload(reso['name'], f"{rType}/{reso['name']}", resourceFolderId)
                                     os.remove(f"{rType}/{reso['name']}")
+                                print(count)
+                                print(success)
 
                             resourceId = getResourceId(reso['name'], resourceFolderId)
                             link = getResourceLink(resourceId)

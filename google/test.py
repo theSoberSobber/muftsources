@@ -19,12 +19,14 @@ service = Create_Service(TOP, API_NAME, API_VERSION, SCOPES)
 # need to call before every function (use decorators???)
 def ensureSpace():
 	global TOP
+	global service
 	updated = False
 	while(getRemainingSpace()<=overhead):
 		TOP+=1
 		updated = True
 		print(TOP)
-		service = Create_Service(f"secrexx-{TOP}.json", API_NAME, API_VERSION, SCOPES)
+		service = Create_Service(TOP, API_NAME, API_VERSION, SCOPES)
+		print(getRemainingSpace()) 
 		if(TOP==2):
 			return updated
 	# print(TOP)
